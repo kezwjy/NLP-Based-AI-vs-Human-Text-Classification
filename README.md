@@ -28,6 +28,6 @@ Confusion matrix
 Tech Stack
 Python, scikit-learn, Word2Vec, standard NLP preprocessing tools
 
-##Notes
+## Notes
 
 This project focuses on simplicity and interpretability, showing that even basic models can perform well when combined with meaningful text representations.
